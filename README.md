@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date:16-05-25
+## Reg. No.212222230112
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -69,15 +69,15 @@ content generation scenarios:
 
 # Prompting Techniques
 ### 1. Query Decomposition
-Description: Breaking down complex tasks into smaller, more manageable sub-queries.
+->Description: Breaking down complex tasks into smaller, more manageable sub-queries.
 
-Use Case: Writing detailed reports on smart city sustainability.
+->Use Case: Writing detailed reports on smart city sustainability.
 
-Example:
+->Example:
 
 Initial Prompt: "Write a report on the role of smart cities in achieving sustainability goals."
 
-Decomposed Prompts:
+->Decomposed Prompts:
 
 "Explain how smart cities contribute to reducing carbon emissions."
 
@@ -85,52 +85,52 @@ Decomposed Prompts:
 
 "Provide examples of smart transportation systems enhancing sustainability."
 
-Effect:
+->Effect:
 
-Ensures depth and clarity by tackling one aspect at a time.
+-Ensures depth and clarity by tackling one aspect at a time.
 
-Results in well-structured and coherent content.
+-Results in well-structured and coherent content.
 
 ### 2. Decision-Making Prompts
-Description: Asking the model to choose the best approach or style before generating content.
+->Description: Asking the model to choose the best approach or style before generating content.
 
-Use Case: Customizing articles on smart cities for different audiences.
+->Use Case: Customizing articles on smart cities for different audiences.
 
-Example:
+->Example:
 
 "Should the article on sustainable smart cities be written for policymakers or the general public?"
 
 "Would an infographic or a case study be more effective for this topic?"
 
-Effect:
+->Effect:
 
-Tailors the content based on the target audience.
+-Tailors the content based on the target audience.
 
-Enhances relevance and readability.
+-Enhances relevance and readability.
 
 ### 3. Semantic Filtering
-Description: Using constraints to focus on specific aspects.
+->Description: Using constraints to focus on specific aspects.
 
-Use Case: Creating focused case studies or comparative analyses.
+->Use Case: Creating focused case studies or comparative analyses.
 
-Example:
+->Example:
 
 "Generate a case study on smart cities promoting sustainability, excluding examples from North America."
 
 "Write an article focusing only on smart waste management systems."
 
-Effect:
+->Effect:
 
-Increases specificity.
+-Increases specificity.
 
-Eliminates redundant or irrelevant content.
+-Eliminates redundant or irrelevant content.
 
 ### 4. Hierarchical Prompting
-Description: Using a layered approach, starting broad and narrowing down.
+->Description: Using a layered approach, starting broad and narrowing down.
 
-Use Case: Structured report writing.
+->Use Case: Structured report writing.
 
-Example:
+->Example:
 
 "Introduce the concept of smart cities."
 
@@ -138,35 +138,35 @@ Example:
 
 "Detail IoT-based solutions for energy efficiency in urban infrastructure."
 
-Effect:
+->Effect:
 
-Encourages logical flow.
+-Encourages logical flow.
 
-Provides comprehensive understanding.
+-Provides comprehensive understanding.
 
 ### 5. Role-Based Prompting
-Description: Assigning the AI a specific role for content generation.
+->Description: Assigning the AI a specific role for content generation.
 
-Use Case: Generating content with specific tone or expertise.
+->Use Case: Generating content with specific tone or expertise.
 
-Example:
+->Example:
 
 "Act as an urban planner and describe how smart technologies improve city sustainability."
 
 "Take on the role of a journalist reporting on a sustainable smart city expo."
 
-Effect:
+->Effect:
 
-Tailors tone, vocabulary, and focus to suit the role.
+-Tailors tone, vocabulary, and focus to suit the role.
 
-Increases authenticity.
+-Increases authenticity.
 
 ### 6. Iterative Refinement
-Description: Rewriting or refining content based on feedback or output review.
+->Description: Rewriting or refining content based on feedback or output review.
 
-Use Case: Enhancing clarity, tone, or detail.
+->Use Case: Enhancing clarity, tone, or detail.
 
-Example:
+->Example:
 
 Initial Prompt: "Write an article about smart water management in cities."
 
@@ -174,13 +174,13 @@ Refinement: "Include examples of sensor-based water quality monitoring."
 
 Further Refinement: "Highlight cost benefits of implementing these systems."
 
-Effect:
+->Effect:
 
-Improves alignment with the content’s intent.
+-Improves alignment with the content’s intent.
 
-Enables high-quality final output.
+-Enables high-quality final output.
 
-Impact of Prompting Techniques on Content Types
+-Impact of Prompting Techniques on Content Types
 
 | Content Type   | Prompting Technique                 | Impact                                                                         |
 | -------------- | ----------------------------------- | ------------------------------------------------------------------------------ |
