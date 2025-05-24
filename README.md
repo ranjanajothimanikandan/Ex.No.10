@@ -210,7 +210,7 @@ Prompt 3: "Highlight cities that have successfully implemented such systems."
 "Act as a smart infrastructure analyst to evaluate these case studies."
 
 4.Iterative Refinement:
-
+ 
 Initial Output: "Smart grids reduce energy wastage through real-time monitoring."
 
 Refined Prompt: "Include metrics or statistics showing energy savings post-implementation."
